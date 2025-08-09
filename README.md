@@ -13,12 +13,13 @@ If you're a fresher, you're not just competing for a job.
 You're competing for *attention*.
 And most of you are invisible.
 
-This playbook fixes that.
+This playbook ***fixes*** that.
 
 ---
 
 ## 🎯 What This Playbook Will Do
 This is not another "learn DSA and hope" guide.  
+
 This is a **battle plan** for:
 - Building **real proof-of-work** that recruiters and hiring managers can't ignore.
 - Becoming **visible in the right circles** — LinkedIn, GitHub, tech communities.
@@ -46,7 +47,7 @@ If you commit to the 90 days, you will come out with:
 
 ## ⚔ The 90-Day Plan
 
-### **Phase 1 – Foundation (Days 1–30)**
+### **Phase 1 – Foundation (Days 1–14)**
 **Goal:** Build your visibility infrastructure and focus.
 
 📁 **[Phase 1 Resources](phase-1-foundation/)**
@@ -60,7 +61,7 @@ If you commit to the 90 days, you will come out with:
    - GitHub → Clean public profile, pinned repos.
    - LinkedIn → Headline, about section, niche keywords.
    - Twitter/X → Bio + link to GitHub.
-   - Blog → Hashnode/Dev.to linked to GitHub.
+   - Blog → Hashnode/Dev.to/Medium/own website linked to GitHub.
    - **Why it works:** You can't be discovered if you're invisible.
    - **Done When:** All profiles are live, consistent, and searchable.
 
@@ -76,7 +77,7 @@ If you commit to the 90 days, you will come out with:
 
 ---
 
-### **Phase 2 – Build + Share Loop (Days 31–60)**
+### **Phase 2 – Build + Share Loop (Days 15–60)**
 **Goal:** Show momentum and skill, not just final results.
 
 📁 **[Phase 2 Resources](phase-2-build-share/)**
@@ -187,5 +188,6 @@ This playbook fixes all of that systematically.
 
 ---
 
-*The market is tough, but invisible engineers don't get hired.  
-Visible ones do.*
+*The market is tough, but invisible engineers don't get hired. Visible ones do.*
+
+I wish you the best of luck on your journey. Hope this playbook helps you get there faster.
