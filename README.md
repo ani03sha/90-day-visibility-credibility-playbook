@@ -133,6 +133,7 @@ If you commit to the 90 days, you will come out with:
 ├── /phase-1-foundation # Day 1–14 tasks, checklists
 │ ├── profile-setup.md
 │ ├── niche-selection.md
+| ├── signature-project.md
 │ └── zero-day-announcement.md
 │
 ├── /phase-2-build-share # Day 15–60 tasks
