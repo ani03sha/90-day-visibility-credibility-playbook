@@ -128,33 +128,33 @@ If you commit to the 90 days, you will come out with:
 
 ```yaml
 90-day-visibility-credibility-playbook/
-│
-├── README.md # This file
-├── /phase-1-foundation # Day 1–14 tasks, checklists
-│ ├── profile-setup.md
-│ ├── niche-selection.md
-| ├── signature-project.md
-│ └── zero-day-announcement.md
-│
-├── /phase-2-build-share # Day 15–60 tasks
-│ ├── micro-features.md
-│ ├── weekly-post-template.md
-│ ├── blog-template.md
-│ └── engagement-playbook.md
-│
-├── /phase-3-proof-amplify # Day 61–90 tasks
-│ ├── project-polish-checklist.md
-│ ├── portfolio-template.md
-│ ├── recap-post-template.md
-│ └── outreach-script.md
-│
-├── /project-ideas # Future-proof project suggestions
-│ └── 2025-trends.md
-│
-├── /tracking-template
-│ └── progress-tracker.xlsx
-│
-└── LICENSE
+   │
+   ├── README.md # This file
+   ├── /phase-1-foundation # Day 1–14 tasks, checklists
+   │ ├── profile-setup.md
+   │ ├── niche-selection.md
+   | ├── signature-project.md
+   │ └── zero-day-announcement.md
+   │
+   ├── /phase-2-build-share # Day 15–60 tasks
+   │ ├── micro-features.md
+   │ ├── weekly-post-template.md
+   │ ├── blog-template.md
+   │ └── engagement-playbook.md
+   │
+   ├── /phase-3-proof-amplify # Day 61–90 tasks
+   │ ├── project-polish-checklist.md
+   │ ├── portfolio-template.md
+   │ ├── recap-post-template.md
+   │ └── outreach-script.md
+   │
+   ├── /project-ideas # Future-proof project suggestions
+   │ └── 2025-trends.md
+   │
+   ├── /tracking-template
+   │ └── progress-tracker.xlsx
+   │
+   └── LICENSE
 ```
 
 ---
